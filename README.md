@@ -35,15 +35,10 @@ Histórico Chrome: https://chromewebstore.google.com/detail/quick-chrome-history
 ## Mergulhe mais profundo
 
 Aprofunde-se nos seguintes tópicos:
-Google Gemini e Imersão Inteligência Artificial | Hipsters Ponto Tech #407 
-- https://www.hipsters.tech/google-gemini-e-imersao-inteligencia-artificial-hipsters-ponto-tech-407/
-O que é o Google Gemini
-- https://www.alura.com.br/artigos/google-gemini?_gl=1*1tqucwc*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxNTAyNjgzNS4xOS4wLjE3MTUwMjY4MzUuMC4wLjA.*_fplc*SXQ5NDdCJTJGM0tLblVLd1AxWG80c3lOU3dWdlZOV3VxOHhvMW54TWt0VlUwM095dnJpc3U2TU15MmNZUXlObUlsbHRwcUVpTjNtZ1NQOHJKaVczY3JXekFiZDNyM0M1RGhoQXhFS2R1OG9LOGh3YlFJdUl0SjJDNTc4b2M5S1ElM0QlM0Q.
-O que é IA generativa?
-- https://www.alura.com.br/artigos/inteligencia-artificial-ia-generativa-chatgpt-gpt-midjourney?_gl=1*1tqucwc*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxNTAyNjgzNS4xOS4wLjE3MTUwMjY4MzUuMC4wLjA.*_fplc*SXQ5NDdCJTJGM0tLblVLd1AxWG80c3lOU3dWdlZOV3VxOHhvMW54TWt0VlUwM095dnJpc3U2TU15MmNZUXlObUlsbHRwcUVpTjNtZ1NQOHJKaVczY3JXekFiZDNyM0M1RGhoQXhFS2R1OG9LOGh3YlFJdUl0SjJDNTc4b2M5S1ElM0QlM0Q.
-Como criar uma Inteligência Artificial?
-- https://www.alura.com.br/artigos/como-criar-inteligencia-artificial-ia?_gl=1*1tqucwc*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxNTAyNjgzNS4xOS4wLjE3MTUwMjY4MzUuMC4wLjA.*_fplc*SXQ5NDdCJTJGM0tLblVLd1AxWG80c3lOU3dWdlZOV3VxOHhvMW54TWt0VlUwM095dnJpc3U2TU15MmNZUXlObUlsbHRwcUVpTjNtZ1NQOHJKaVczY3JXekFiZDNyM0M1RGhoQXhFS2R1OG9LOGh3YlFJdUl0SjJDNTc4b2M5S1ElM0QlM0Q.
-O que é Machine Learning | Hipsters Ponto Tube
-- https://www.youtube.com/watch?v=Iuz_jc96bQk
+- Google Gemini e Imersão Inteligência Artificial | Hipsters Ponto Tech #407 (https://www.hipsters.tech/google-gemini-e-imersao-inteligencia-artificial-hipsters-ponto-tech-407/) 
+- O que é o Google Gemini (https://www.alura.com.br/artigos/google-gemini?_gl=1*1tqucwc*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxNTAyNjgzNS4xOS4wLjE3MTUwMjY4MzUuMC4wLjA.*_fplc*SXQ5NDdCJTJGM0tLblVLd1AxWG80c3lOU3dWdlZOV3VxOHhvMW54TWt0VlUwM095dnJpc3U2TU15MmNZUXlObUlsbHRwcUVpTjNtZ1NQOHJKaVczY3JXekFiZDNyM0M1RGhoQXhFS2R1OG9LOGh3YlFJdUl0SjJDNTc4b2M5S1ElM0QlM0Q.)
+- O que é IA generativa? (https://www.alura.com.br/artigos/inteligencia-artificial-ia-generativa-chatgpt-gpt-midjourney?_gl=1*1tqucwc*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxNTAyNjgzNS4xOS4wLjE3MTUwMjY4MzUuMC4wLjA.*_fplc*SXQ5NDdCJTJGM0tLblVLd1AxWG80c3lOU3dWdlZOV3VxOHhvMW54TWt0VlUwM095dnJpc3U2TU15MmNZUXlObUlsbHRwcUVpTjNtZ1NQOHJKaVczY3JXekFiZDNyM0M1RGhoQXhFS2R1OG9LOGh3YlFJdUl0SjJDNTc4b2M5S1ElM0QlM0Q.)
+- Como criar uma Inteligência Artificial? (https://www.alura.com.br/artigos/como-criar-inteligencia-artificial-ia?_gl=1*1tqucwc*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxNTAyNjgzNS4xOS4wLjE3MTUwMjY4MzUuMC4wLjA.*_fplc*SXQ5NDdCJTJGM0tLblVLd1AxWG80c3lOU3dWdlZOV3VxOHhvMW54TWt0VlUwM095dnJpc3U2TU15MmNZUXlObUlsbHRwcUVpTjNtZ1NQOHJKaVczY3JXekFiZDNyM0M1RGhoQXhFS2R1OG9LOGh3YlFJdUl0SjJDNTc4b2M5S1ElM0QlM0Q.)
+- O que é Machine Learning | Hipsters Ponto Tube (https://www.youtube.com/watch?v=Iuz_jc96bQk)
 
 ------------------------------------------------------------------------------------------
