@@ -42,3 +42,43 @@ Aprofunde-se nos seguintes tópicos:
 - O que é Machine Learning | Hipsters Ponto Tube (https://www.youtube.com/watch?v=Iuz_jc96bQk)
 
 ------------------------------------------------------------------------------------------
+
+# AULA 2
+
+# MELHORES TÉCNICAS EM ENGENHARIA DE PROMPT
+Nesta aula, iremos conhecer as melhores técnicas e práticas de engenharia de prompt por meio do Google AI Studio!
+
+## Nesta aula, você vai:
+- Aprender as melhores técnicas de como realizar um prompt;
+- Conhecer o conceito de zero-shot prompting;
+- Aprender a técnica de few-shot prompting;
+- Conhecer a técnica Few-shot Chain-of-Thought prompting.
+
+## Links importantes para você acompanhar a aula
+- Guia de desing de prompts do Google: https://ai.google.dev/gemini-api/docs/prompting-strategies?hl=pt-br
+- Comunidade de Innovators: https://cloud.google.com/innovators?hl=pt-br
+
+## Desafios desta aula
+- Use a técnica de Few-shot Chain-of-Thought para um problema da sua vida real;
+- Escolha 10 textos do seu site de notícias preferido. Apresente para o Google AI Studio o padrão dos títulos e das suas respectivas notícias e quando chegar no décimo primeiro texto, apresente somente a notícia e peça para ele gerar um título. Veja se existe alguma técnica ou padrão;
+- Faça parte da comunidade gratuita de desenvolvedores e de usuários da Google Cloud Innovators, acesse a plataforma aqui! (https://cloud.google.com/innovators?hl=pt-br)
+
+## Aprofunde-se nos seguintes tópicos:
+- Paper da OpenAI "Language Models are Few-Shot Learners" (https://arxiv.org/abs/2005.14165)
+- Paper do Google "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models" (https://arxiv.org/abs/2201.11903)
+- Paper do Google "Least-to-Most Prompting Enables Complex Reasoning in Large Language Models" (https://arxiv.org/abs/2205.10625)
+- Paper do Google "Self-Consistency Improves Chain of Thought Reasoning in Language Models" (https://arxiv.org/abs/2203.11171)
+- Machine Learning no mundo da biometria, Google Gemini e verificação de alucinações Hipsters: Fora de Controle #29 (https://www.alura.com.br/podcast/hipsterstech-machine-learning-no-mundo-da-biometria-google-gemini-e-verificacao-de-alucinacoes-hipsters-fora-de-controle-29-a9140?_gl=1*1d7gx5x*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxNTA4OTcwMi4yMS4wLjE3MTUwODk3MDIuMC4wLjA.*_fplc*SXo1JTJGclBtU0NqeE5kSzR2MVZBOHdTZHNYTHVpYXp6JTJCYVp1bU5TVFB1YzVHdmRONTNWeUhBQ1IwcUpIQW4yVlNnTGowYnZoUkhvbGIlMkJjUXBEMGxJQTQ1U2FZMTJmb1h4WHBoZWdYJTJCMERQSDNtSmxKQzRqTXRpaGJHdHBlZ3clM0QlM0Q.)
+- O que é Engenharia de Prompt e quais as suas principais técnicas? (https://www.alura.com.br/artigos/engenharia-prompt?_gl=1*1d7gx5x*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxNTA4OTcwMi4yMS4wLjE3MTUwODk3MDIuMC4wLjA.*_fplc*SXo1JTJGclBtU0NqeE5kSzR2MVZBOHdTZHNYTHVpYXp6JTJCYVp1bU5TVFB1YzVHdmRONTNWeUhBQ1IwcUpIQW4yVlNnTGowYnZoUkhvbGIlMkJjUXBEMGxJQTQ1U2FZMTJmb1h4WHBoZWdYJTJCMERQSDNtSmxKQzRqTXRpaGJHdHBlZ3clM0QlM0Q.#principios-para-a-criacao-de-um-prompt)
+
+------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
