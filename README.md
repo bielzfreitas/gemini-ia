@@ -109,10 +109,50 @@ Aprofunde-se nos seguintes tópicos:
 
 ------------------------------------------------------------------------------------------
 
+# Aula 4: Criando seu próprio chatbot com a Gemini API no Google Colab
+Nesta aula, vamos criar um chatbot com a Gemini API pelo Google Colab e descobrir como funciona a premiação de melhores projetos!
 
+## Nesta aula, você vai:
+- Aprender a criar o seu próprio chatbot;
+- Saber como funciona a competição de projetos dessa Imersão.
+- Fique até o final da aula e tenha orientações exclusivas sobre como usar o GitHub e como colocar seu projeto do Google Colab nele.
 
+## Link do projeto:
+- Acesse o Google Colab aqui (https://colab.research.google.com/)
+- Guia de início rápido na API Gemini (https://ai.google.dev/gemini-api/docs/quickstart?hl=pt-br)
+- Códigos da aula 4 aqui (https://colab.research.google.com/drive/1wFIctGOaYwlgXD8xsyBiSi5LmTHrObai?usp=sharing)
+- Formulário de submissão do seu projeto aqui! (https://forms.gle/xtn8UvC8spvoWEr57)
 
+## Links importantes para você acompanhar a aula
+- Guia de Mergulho da Imersão IA; (https://grupoalura.notion.site/Imers-o-IA-Guia-de-Mergulho-41ae5fadd8fd47899167a115e96244d9)
+- Live 08/05: Mergulhe em Python: Prepare-se para criar o seu chatbot; (https://youtube.com/live/j_0HRH7gZtA)
+- IA Conference Brasil 2024; (https://iaconferencebrasil.com.br/)
+- Faça parte da comunidade gratuita de desenvolvedores e de usuários da Google Cloud Innovators, acesse a plataforma aqui; (https://cloud.google.com/innovators?hl=pt-br)
+- Live 13/05 às 18:30 | Projetos que inspiram e próximos desafios. (https://youtube.com/live/0x_WCLhen7Q)
 
+## Desafios desta aula: Premiação de melhores projetos
+### Deseja ir além? Envie seu projeto e concorra a prêmios:
+- Tutorial: https://youtu.be/bLK66y0CcR8
+
+### Desenvolva um Projeto Relacionado à Aula 4 e/ou Aula 5 da Imersão IA 2ª Edição
+- O projeto deve estar relacionado ao conteúdo da Aula 4 e/ou Aula 5 da Imersão IA 2ª edição, organizada pela Alura em parceria com o Google.
+### Uso Obrigatório da API Key do Google
+- É obrigatório o uso da API Key do Google (acesse aqui para obter sua chave https://aistudio.google.com/app/apikey/?utm_source=website&utm_medium=referral&utm_campaign=Alura&utm_content=).
+### Publicação do Projeto no GitHub
+- O projeto deve ser publicado no GitHub. Se precisar de ajuda para subir seu projeto, confira o tutorial aqui. (https://www.youtube.com/watch?v=9IiWoiBhWiA)
+### Submissão do Projeto
+- A submissão do projeto deve ser feita através deste formulário entre os dias 09/05 e 11/05, até as 23h59. (https://forms.gle/xtn8UvC8spvoWEr57)
+### Publicação e Votação no Discord
+- O projeto será publicado no Servidor do Discord da Imersão IA 2024 para votação pela comunidade até 11/05, às 23h59.
+- A votação acontece no canal "#Votação". Dê estrelas no projeto que você mais gostou e conecte-se com outras pessoas para incentivá-las a votar no seu projeto.
+
+## Mergulhe mais profundo
+Aprofunde-se nos seguintes tópicos:
+- Guia de Python (https://www.alura.com.br/artigos/python?_gl=1*1cb4vv9*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxNTI3Mzg0MS4yOC4wLjE3MTUyNzM4NDEuMC4wLjA.*_fplc*RHlUc2tvTWFKWDNiNWRvSndHJTJCUVVjM0hjd2g0U3ZMaExGVGpXZG9mTklKb2pkejVVZFl0SVRjaHlTek9oNW1iN1I3ZnBUJTJGd1R3VE9yeXlLUTJBWVVBZkVMdGtrZlpmZDg3Y29peDc4WEJSY0dRNFZ5MURHcEElMkJYejElMkZEY0ElM0QlM0Q.)
+- O que é API (https://www.alura.com.br/artigos/api?_gl=1*1cb4vv9*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxNTI3Mzg0MS4yOC4wLjE3MTUyNzM4NDEuMC4wLjA.*_fplc*RHlUc2tvTWFKWDNiNWRvSndHJTJCUVVjM0hjd2g0U3ZMaExGVGpXZG9mTklKb2pkejVVZFl0SVRjaHlTek9oNW1iN1I3ZnBUJTJGd1R3VE9yeXlLUTJBWVVBZkVMdGtrZlpmZDg3Y29peDc4WEJSY0dRNFZ5MURHcEElMkJYejElMkZEY0ElM0QlM0Q.)
+- O que é Markdown (https://www.alura.com.br/artigos/como-trabalhar-com-markdown?_gl=1*1uxdzob*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxNTI3Mzg0MS4yOC4wLjE3MTUyNzM4NDEuMC4wLjA.*_fplc*RHlUc2tvTWFKWDNiNWRvSndHJTJCUVVjM0hjd2g0U3ZMaExGVGpXZG9mTklKb2pkejVVZFl0SVRjaHlTek9oNW1iN1I3ZnBUJTJGd1R3VE9yeXlLUTJBWVVBZkVMdGtrZlpmZDg3Y29peDc4WEJSY0dRNFZ5MURHcEElMkJYejElMkZEY0ElM0QlM0Q.#:~:text=O%20que%20%C3%A9%20Markdown%3F,mais%20complexas%2C%20como%20o%20HTML.)
+
+------------------------------------------------------------------------------------------
 
 
 
