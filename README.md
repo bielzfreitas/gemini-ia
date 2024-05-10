@@ -2,6 +2,8 @@
 
 ### Imersão Inteligência Artificial 2ª Edição (Alura)
 
+Arquivo "ChatBot_Aula04_ImersaoIA(V2).ipynb" é o projeto da aula 04 onde foi criado um ChatBot integrado com o Google Gemini usando a API Key.
+
 ------------------------------------------------------------------------------------------
 # AULA 1: MERGULHANDO NO GEMINI, A IA DO GOOGLE
 Nesta aula, vamos começar o nosso mergulho conhecendo o Gemini, a IA do Google, e ver como ele consegue criar tabelas, escrever poemas, gerar códigos e muito mais. Além disso, vamos conhecer também o Google AI Studio.
