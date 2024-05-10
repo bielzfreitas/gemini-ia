@@ -118,10 +118,10 @@ Nesta aula, vamos criar um chatbot com a Gemini API pelo Google Colab e descobri
 - Fique até o final da aula e tenha orientações exclusivas sobre como usar o GitHub e como colocar seu projeto do Google Colab nele.
 
 ## Link do projeto:
-- Acesse o Google Colab aqui (https://colab.research.google.com/)
-- Guia de início rápido na API Gemini (https://ai.google.dev/gemini-api/docs/quickstart?hl=pt-br)
-- Códigos da aula 4 aqui (https://colab.research.google.com/drive/1wFIctGOaYwlgXD8xsyBiSi5LmTHrObai?usp=sharing)
-- Formulário de submissão do seu projeto aqui! (https://forms.gle/xtn8UvC8spvoWEr57)
+- Acesse o Google Colab aqui: (https://colab.research.google.com/)
+- Guia de início rápido na API Gemini: (https://ai.google.dev/gemini-api/docs/quickstart?hl=pt-br)
+- Códigos da aula 4 aqui: (https://colab.research.google.com/drive/1wFIctGOaYwlgXD8xsyBiSi5LmTHrObai?usp=sharing)
+- Formulário de submissão do seu projeto aqui: (https://forms.gle/xtn8UvC8spvoWEr57)
 
 ## Links importantes para você acompanhar a aula
 - Guia de Mergulho da Imersão IA; (https://grupoalura.notion.site/Imers-o-IA-Guia-de-Mergulho-41ae5fadd8fd47899167a115e96244d9)
@@ -154,5 +154,27 @@ Aprofunde-se nos seguintes tópicos:
 
 ------------------------------------------------------------------------------------------
 
+# Aula 5: Criando um sistema para busca em documentos usando embeddings e a Gemini API
+Nesta última aula, vamos criar um sistema de buscas semânticas por meio de embeddings e do Google API.
 
+## Nesta aula, você vai:
+- Fazer uma LLM (Large Language Model) para acessar documentos;
+- Criar um embedding pelo Google Colab.
 
+## Link do projeto:
+- Acesse o Google Colab aqui: (https://colab.research.google.com/)
+- Gemini API: Embeddings Quickstart (https://colab.research.google.com/github/google-gemini/cookbook/blob/main/quickstarts/Embeddings.ipynb)
+- Código da Aula 05 aqui: (https://colab.research.google.com/drive/1Dags_xXdnmps_4Shbm8bH7m8VRjxp3t5?usp=sharing)
+
+## Links importantes para você acompanhar a aula
+- Guia de Mergulho da Imersão IA! (https://grupoalura.notion.site/Imers-o-IA-Guia-de-Mergulho-41ae5fadd8fd47899167a115e96244d9)
+- Guia de Embeddings: https://ai.google.dev/gemini-api/docs/embeddings?hl=pt-br
+- Task Types (Tipos de Tarefas): https://ai.google.dev/gemini-api/tutorials/document_search?hl=pt-br#api_changes_to_embeddings_with_model_embedding-001
+
+## Aprofunde-se nos seguintes tópicos:
+- O que é PLN? (https://www.alura.com.br/artigos/o-que-e-pln?_gl=1*1ssswlx*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxNTM3MzgwMy4zMi4xLjE3MTUzNzM4MDcuMC4wLjA.*_fplc*R2FGVnVMQU9mYnVwSDY3dHB1MXJnMHZ1UkRXR0FWdWhqdm9OMmRaZDh3bThWYTRrZW1hU2R0cFRwQzBUNHUzWUZPTVAxNjB1ZGNwTXNDbGJVRTRuMGFYUm5ZRndYeERURU5hckhsZHNSTCUyQmtWTlZMUDVCQkc2OFQ0VThuR2clM0QlM0Q.)
+- O que é Deep Learning? (https://www.alura.com.br/artigos/deep-learning-deep-fake?_gl=1*1ssswlx*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxNTM3MzgwMy4zMi4xLjE3MTUzNzM4MDcuMC4wLjA.*_fplc*R2FGVnVMQU9mYnVwSDY3dHB1MXJnMHZ1UkRXR0FWdWhqdm9OMmRaZDh3bThWYTRrZW1hU2R0cFRwQzBUNHUzWUZPTVAxNjB1ZGNwTXNDbGJVRTRuMGFYUm5ZRndYeERURU5hckhsZHNSTCUyQmtWTlZMUDVCQkc2OFQ0VThuR2clM0QlM0Q.)
+- Conheça mais sobre Numpy (https://www.alura.com.br/artigos/numpy-computacao-cientifica-com-python?_gl=1*1ssswlx*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxNTM3MzgwMy4zMi4xLjE3MTUzNzM4MDcuMC4wLjA.*_fplc*R2FGVnVMQU9mYnVwSDY3dHB1MXJnMHZ1UkRXR0FWdWhqdm9OMmRaZDh3bThWYTRrZW1hU2R0cFRwQzBUNHUzWUZPTVAxNjB1ZGNwTXNDbGJVRTRuMGFYUm5ZRndYeERURU5hckhsZHNSTCUyQmtWTlZMUDVCQkc2OFQ0VThuR2clM0QlM0Q.) 
+- O que é o Python Pandas? (https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar?_gl=1*1ssswlx*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxNTM3MzgwMy4zMi4xLjE3MTUzNzM4MDcuMC4wLjA.*_fplc*R2FGVnVMQU9mYnVwSDY3dHB1MXJnMHZ1UkRXR0FWdWhqdm9OMmRaZDh3bThWYTRrZW1hU2R0cFRwQzBUNHUzWUZPTVAxNjB1ZGNwTXNDbGJVRTRuMGFYUm5ZRndYeERURU5hckhsZHNSTCUyQmtWTlZMUDVCQkc2OFQ0VThuR2clM0QlM0Q.)
+
+------------------------------------------------------------------------------------------
