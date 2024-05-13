@@ -3,8 +3,8 @@
 ### Imersão Inteligência Artificial 2ª Edição (Alura)
 
 #### Arquivo "ChatBot_Aula04_ImersaoIA(V2).ipynb" é o projeto da aula 04 onde foi criado um ChatBot integrado com o Google Gemini usando a API Key.
-------------------------------------------------------------------------------------------
 
+------------------------------------------------------------------------------------------
 ## AI Studio
 
 #### Temperatura: serve para deixar o Gemini mais preciso
@@ -72,7 +72,7 @@
 - vira um lema, representação unica
 
 ------------------------------------------------------------------------------------------
-# AULA 1: MERGULHANDO NO GEMINI, A IA DO GOOGLE
+## Aula 01: Mergulhando no Gemini, a IA do Google
 Nesta aula, vamos começar o nosso mergulho conhecendo o Gemini, a IA do Google, e ver como ele consegue criar tabelas, escrever poemas, gerar códigos e muito mais. Além disso, vamos conhecer também o Google AI Studio.
 
 #### Nesta aula, você vai:
@@ -106,8 +106,7 @@ Aprofunde-se nos seguintes tópicos:
 - O que é Machine Learning | Hipsters Ponto Tube (https://www.youtube.com/watch?v=Iuz_jc96bQk)
 
 ------------------------------------------------------------------------------------------
-
-# AULA 2: MELHORES TÉCNICAS EM ENGENHARIA DE PROMPT
+## Aula 02: Melhores Técnicas em Engenharia de Prompt
 Nesta aula, iremos conhecer as melhores técnicas e práticas de engenharia de prompt por meio do Google AI Studio!
 
 #### Nesta aula, você vai:
@@ -134,8 +133,7 @@ Nesta aula, iremos conhecer as melhores técnicas e práticas de engenharia de p
 - O que é Engenharia de Prompt e quais as suas principais técnicas? (https://www.alura.com.br/artigos/engenharia-prompt?_gl=1*1d7gx5x*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxNTA4OTcwMi4yMS4wLjE3MTUwODk3MDIuMC4wLjA.*_fplc*SXo1JTJGclBtU0NqeE5kSzR2MVZBOHdTZHNYTHVpYXp6JTJCYVp1bU5TVFB1YzVHdmRONTNWeUhBQ1IwcUpIQW4yVlNnTGowYnZoUkhvbGIlMkJjUXBEMGxJQTQ1U2FZMTJmb1h4WHBoZWdYJTJCMERQSDNtSmxKQzRqTXRpaGJHdHBlZ3clM0QlM0Q.#principios-para-a-criacao-de-um-prompt)
 
 ------------------------------------------------------------------------------------------
-
-# Aula 3: Explorando os parâmetros do Google AI Studio
+## Aula 3: Explorando os parâmetros do Google AI Studio
 Nesta aula, vamos ver mais sobre o Google AI Studio e explorar seus parâmetros e configurações até o suporte do modelo multimodal que o Gemini nos dá, iniciando a automação desse modelo com as APIs.
 
 #### Nesta aula, você vai:
@@ -174,8 +172,7 @@ Aprofunde-se nos seguintes tópicos:
 - Guia de Python (https://www.alura.com.br/artigos/python?_gl=1*1fwnesh*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxNTI3MTc0MS4yNy4wLjE3MTUyNzE3NDEuMC4wLjA.*_fplc*RHlUc2tvTWFKWDNiNWRvSndHJTJCUVVjM0hjd2g0U3ZMaExGVGpXZG9mTklKb2pkejVVZFl0SVRjaHlTek9oNW1iN1I3ZnBUJTJGd1R3VE9yeXlLUTJBWVVBZkVMdGtrZlpmZDg3Y29peDc4WEJSY0dRNFZ5MURHcEElMkJYejElMkZEY0ElM0QlM0Q.)
 
 ------------------------------------------------------------------------------------------
-
-# Aula 4: Criando seu próprio chatbot com a Gemini API no Google Colab
+## Aula 4: Criando seu próprio chatbot com a Gemini API no Google Colab
 Nesta aula, vamos criar um chatbot com a Gemini API pelo Google Colab e descobrir como funciona a premiação de melhores projetos!
 
 #### Nesta aula, você vai:
@@ -219,8 +216,7 @@ Aprofunde-se nos seguintes tópicos:
 - O que é Markdown (https://www.alura.com.br/artigos/como-trabalhar-com-markdown?_gl=1*1uxdzob*_ga*MTUyMzg4NTg5My4xNzEwMjQ1MTcz*_ga_1EPWSW3PCS*MTcxNTI3Mzg0MS4yOC4wLjE3MTUyNzM4NDEuMC4wLjA.*_fplc*RHlUc2tvTWFKWDNiNWRvSndHJTJCUVVjM0hjd2g0U3ZMaExGVGpXZG9mTklKb2pkejVVZFl0SVRjaHlTek9oNW1iN1I3ZnBUJTJGd1R3VE9yeXlLUTJBWVVBZkVMdGtrZlpmZDg3Y29peDc4WEJSY0dRNFZ5MURHcEElMkJYejElMkZEY0ElM0QlM0Q.#:~:text=O%20que%20%C3%A9%20Markdown%3F,mais%20complexas%2C%20como%20o%20HTML.)
 
 ------------------------------------------------------------------------------------------
-
-# Aula 5: Criando um sistema para busca em documentos usando embeddings e a Gemini API
+## Aula 5: Criando um sistema para busca em documentos usando embeddings e a Gemini API
 Nesta última aula, vamos criar um sistema de buscas semânticas por meio de embeddings e do Google API.
 
 #### Nesta aula, você vai:
