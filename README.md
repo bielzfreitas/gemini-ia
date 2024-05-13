@@ -3,6 +3,73 @@
 ### Imersão Inteligência Artificial 2ª Edição (Alura)
 
 Arquivo "ChatBot_Aula04_ImersaoIA(V2).ipynb" é o projeto da aula 04 onde foi criado um ChatBot integrado com o Google Gemini usando a API Key.
+------------------------------------------------------------------------------------------
+
+# AI Studio
+
+#### Temperatura: serve para deixar o Gemini mais preciso
+
+#### Quanto mais próximo do "0", mais "preciso" ele ficará (mais especifica de controle);
+- A resposta vai ser quase sempre igual
+- De acordo com as palavras que ele aprendeu;
+
+#### Quanto mais alta a temperatura, mais criativa o Gemini fica;
+- É como pegar várias palavras, colocar num saquinho e pegar aleatóriamente
+- Não será sempre a palavra mais precisa num conexto específico
+- Será mais criativo
+- Exemplo: Viagens e roles (locais mais pesquisados), palaras mais digitadas
+
+#### Usando o IA Studio, temperatura 0 e depois 1, use o prompt:
+- Escreva um tuíte curto sobre o Japão.
+
+#### Add Stop Sequence
+- definir que conjunto de caracteres, que sequencia ira usar para o modelo marcar como final da crianção
+- ficando mais claro onde ira finalizar
+- categoria de escape, aspa, barra
+- automatiza algumas coisas
+- Exemplo: simples, apenas um "." (ponto de texto)
+
+#### Usar este prompt:
+- Escreva um texto sobre o Japão.
+
+#### Safety settings
+- parametros de segurança
+- podendo bloquear ou desbloquear alguns filtros
+- deixa o modelo para uso geral (perfil da pessoa)
+- somente usado para fins de estudo (bloquear ou detectar discursos hate/sexuais/preconceitos)
+- com isso conseguimos detectar esses conteudos, podendo ter um cuidado ativando os filtros em locais como X, Youtube, conteudo para crianças e etc
+
+### Advanced settings
+- Sequencias de passos entre o Top K, o Top P e depois a temperatura
+
+#### Top K
+- calibrar quantas possiveis palavras (mais, porém e mais 10) queremos utilizar
+- Exemplo: se são 10 e queremos contar somente com 4 palavras, afim de obter um controle maior do que vai ser gerado, é com o Top K que iremos definir qual que é tamanho do conjunto de palavras (prestando atenção que, neste momento o modelo ainda não escolheu qual é a palavra). Uma vez executada, pula para o Top P
+
+#### Top P
+- seleção de palavras baseado em probabilidade (palavras conectadas ou seguida de outra.. 10%, 30%, 60% de chance)
+- soma máxima que eu quero tolerar
+- podemos dizer que o top máximo é de 20%
+- escolha de 4 palavras, a soma de todas ela chega em 20% ou inferior a 15% (a primeira palavra tem 15% e a segunda tem 4%, ou seja, 19%.. se a terceira tem 3%, estoura em 22%.. ou seja, de 5 palavras virou 2, chegando na temperatura do modelo)
+- se temperatura for 0, ele escolhe a palavra com mais probabilidade (15%)
+- se temperatura for 1, escolhe aleatoriamente
+- tomar cuidado pq limita o modelo
+- somente pessoas mais avançadas pra usar
+- utilizar em linguagens especificas (de dominio)
+- tomar cuidado na criação de conteudos (estudos)
+
+#### Enviando um audio, ele mostra que existe "tokens", então:
+- LLM (modelo de linguagem gigantesco)
+- NLP (processamento de linguagem natural)
+- modelo de machine learning é um programa de computador
+- trabalha com numeros
+- transforma um texto em uma forma que o computador entenda (numeros)
+- token é um resultado final desse processamento
+
+#### Limpa a pontuação do texto, limpeza dos caracteres, lematização (pegar palavras que entendemos do idioma, portugues, criando formas de representar as palavras com menos caracteres), converter os lemas/representações em forma numerica
+- radicais parecidos em portugues
+- encurtando para o radical comum
+- vira um lema, representação unica
 
 ------------------------------------------------------------------------------------------
 # AULA 1: MERGULHANDO NO GEMINI, A IA DO GOOGLE
